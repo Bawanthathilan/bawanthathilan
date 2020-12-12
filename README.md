@@ -1,33 +1,33 @@
-<h1 align="center">Hi 👋, I'm Johannes Milke</h1>
-<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
+<h1 align="center">Hi 👋, I'm Bawantha Thilan</h1>
+<h3 align="center">FOSS Enthusiast | Blogger | UI/UX Designer | FullStack 😜</h3>
 
-[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)][linkedin]
+[![Twitter Follow](https://img.shields.io/twitter/follow/thilanbawantha?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
+[![GitHub followers](https://img.shields.io/github/followers/bawanthathilan?logo=GitHub&style=for-the-badge)][github]
+[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/bawanthathilan/)][linkedin]
 
-- 🔭 &ensp;I’m currently working on [Youtube][youtube]!
-- 🌱 &ensp;I’m currently learning Flutter ❤️
-- 👯 &ensp;I’m looking to collaborate with other content creators
-- 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 3 years
+- 🏢 former trainee software engineer at **Apium Innovations**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **React Community**
+- 💅 Designer: @sliitfoss
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **React**, **development**, **design thinking**
+- 📫 Reach me: [twitter.com/thilanbawantha](https://twitter.com/thilanbawantha)
 - ⚡ &ensp;Fun fact: I love reading & podcasts
 
 ### Connect with me:
 
 
-[<img align="left" alt="Johannes Milke | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Johannes Milke | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Johannes Milke | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Johannes Milke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Johannes Milke | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Bawantha Thilan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Bawantha Thilan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Bawantha Thilan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
-[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+[<img align="left" alt=“Node” width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-horizontal.svg" />]
+[<img align="left" alt=“React” width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-icon.svg" />
+[<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/laravel/laravel-ar21.svg" />
+[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
 
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 📺 &ensp;Latest YouTube Videos
+### 📺 &ensp;Latest Medium Articles
 
 <!-- YOUTUBE:START -->
 - [Flutter Tutorial - Riverpod - 3/3 The Ultimate Guide For Modifiers](https://www.youtube.com/watch?v=7h2BrtK8Bpg)
@@ -50,9 +50,8 @@
 
 ---
 
-[website]: https://johannesmilke.com
+
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
-[youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
-[linkedin]: https://linkedin.com/in/JohannesMilke
-[github]: https://github.com/JohannesMilke
-[instagram]: https://www.instagram.com/johannesmilke
+[linkedin]: https://linkedin.com/in/bawanthathilan
+[github]: https://github.com/bawanthathilan
+[instagram]: https://www.instagram.com/bawwa_
