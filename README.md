@@ -11,7 +11,7 @@
 - 💅 Designer: @sliitfoss
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **React**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/thilanbawantha](https://twitter.com/thilanbawantha)
+- 📫 Reach me: [http://bawanthathilan.me/](http://bawanthathilan.me/)
 - ⚡ &ensp;Fun fact: I love reading & podcasts
 
 ### Connect with me:
