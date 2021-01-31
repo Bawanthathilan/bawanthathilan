@@ -7,7 +7,6 @@
 
 - 🏢 former trainee software engineer at **Apium Innovations**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **React Community**
 - 💅 Designer: @sliitfoss
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **React**, **development**, **design thinking**
@@ -50,9 +49,9 @@
 ### ⚡ &ensp;Latest Medium Articles
 
 <!-- MEDIUM:START -->
+- [Deploy Node Express App to Heroku using Travis CI](https://medium.com/sliit-foss/deploy-node-express-app-to-heroku-using-travis-ci-c4fb2bd0992b)
 - [How to Dockerize a NodeJS App](https://medium.com/sliit-foss/how-to-dockerize-a-nodejs-app-30421721253c)
 - [My experience with setting up openMRS](https://bawantharathnayaka.medium.com/my-experience-with-setting-up-openmrs-32ed5b6e6a5)
-- [Github Actions](https://bawantharathnayaka.medium.com/how-to-setting-up-a-github-action-ci-cd-workflow-on-github-pages-for-react-app-%EF%B8%8F-bb244a34c40d)
 <!-- MEDIUM:END -->
 
 ➡️ &ensp;[more...](https://bawantharathnayaka.medium.com/)
