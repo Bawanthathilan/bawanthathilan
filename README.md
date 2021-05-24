@@ -6,7 +6,7 @@
 [![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/bawanthathilan/)][linkedin]
 
 - 🏢 former trainee software engineer at **Apium Innovations**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 💅 Designer: @sliitfoss
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **React**, **development**, **design thinking**
