@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bawantha Thilan</h1>
-<h3 align="center">FOSS Enthusiast | Blogger | UI/UX Designer | FullStack 😜</h3>
+<h3 align="center">FOSS Enthusiast | Blogger | FullStack </h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thilanbawantha?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/bawanthathilan?logo=GitHub&style=for-the-badge)][github]
