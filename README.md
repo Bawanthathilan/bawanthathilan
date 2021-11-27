@@ -9,7 +9,6 @@
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 💅 Designer: @sliitfoss
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **React**, **development**, **design thinking**
 - 📫 Reach me: [http://bawanthathilan.me/](http://bawanthathilan.me/)
 - ⚡ &ensp;Fun fact: I love reading & podcasts
 
