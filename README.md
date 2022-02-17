@@ -44,11 +44,8 @@
 
 ### ⚡ &ensp;Latest Medium Articles
 
-<!-- MEDIUM:START -->
-- [Deploy Node Express App to Heroku using Travis CI](https://medium.com/sliit-foss/deploy-node-express-app-to-heroku-using-travis-ci-c4fb2bd0992b)
-- [How to Dockerize a NodeJS App](https://medium.com/sliit-foss/how-to-dockerize-a-nodejs-app-30421721253c)
-- [My experience with setting up openMRS](https://bawantharathnayaka.medium.com/my-experience-with-setting-up-openmrs-32ed5b6e6a5)
-<!-- MEDIUM:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ &ensp;[more...](https://bawantharathnayaka.medium.com/)
 
