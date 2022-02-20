@@ -45,11 +45,11 @@
 ### ⚡ &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Our SLIIT Final Year Research Journey](https://bawantharathnayaka.medium.com/our-sliit-final-year-research-journey-ea9313904bcf?source=rss-615355f767c3------2)
 - [Deploy Node Express App to Heroku using Travis CI](https://medium.com/sliit-foss/deploy-node-express-app-to-heroku-using-travis-ci-c4fb2bd0992b?source=rss-615355f767c3------2)
 - [Host your React web app on Microsoft Azure](https://bawantharathnayaka.medium.com/host-your-react-web-app-on-microsoft-azure-b0caf9f267cc?source=rss-615355f767c3------2)
 - [How to Dockerize a NodeJS App](https://medium.com/sliit-foss/how-to-dockerize-a-nodejs-app-30421721253c?source=rss-615355f767c3------2)
 - [My experience with setting up openMRS](https://bawantharathnayaka.medium.com/my-experience-with-setting-up-openmrs-32ed5b6e6a5?source=rss-615355f767c3------2)
-- [How to Setting up a github action CI/CD workflow on Github Pages for React App  ⚛️](https://bawantharathnayaka.medium.com/how-to-setting-up-a-github-action-ci-cd-workflow-on-github-pages-for-react-app-%EF%B8%8F-bb244a34c40d?source=rss-615355f767c3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ &ensp;[more...](https://bawantharathnayaka.medium.com/)
