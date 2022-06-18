@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/bawanthathilan?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/bawanthathilan/)][linkedin]
 
-- 🏢 former trainee software engineer at **Apium Innovations**
+- 🏢 Associate software engineer at **OREL IT**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 💅 Designer: @sliitfoss
 - 🌱 Learning all about **Open Source**
