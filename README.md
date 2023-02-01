@@ -1,4 +1,4 @@
-Hi 👋 My name is Bawantha Thilan Priya Rathnayaka
+Hi 👋 My name is Bawantha Thilan
 =================================================
 
 Software Engineer
@@ -45,10 +45,6 @@ src="https://img.shields.io/twitter/follow/ThilanBawantha?logo=twitter&style=for
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Bawanthathilan"><img src="https://github-readme-stats.vercel.app/api?username=Bawanthathilan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bawanthathilan's GitHub stats" /></a>
-
-<a href="http://www.github.com/Bawanthathilan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bawanthathilan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Bawanthathilan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bawanthathilan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
